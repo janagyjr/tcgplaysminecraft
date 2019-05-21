@@ -73,6 +73,7 @@
 - Tinker's JEI 1.2  
 - Tinker's Tool Leveling 1.12.2-1.1.0  
 - Tinkers' Construct 1.12.2-2.12.0.135  
+- Tomb Many Graves 2 1.12-4.2.0
 - UniDict 1.12.2-2.9.2  
 - WanionLib 1.12.2-2.2  
 - Waystones 4.0.67  
@@ -83,4 +84,4 @@
 - Not Applicable  
 
 ### Changes to Config Files  
-- 
+-
