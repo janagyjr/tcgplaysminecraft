@@ -31,6 +31,7 @@
 - ElecCore 1.9.452  
 - Elemental Dimensions 1.12-0.4.0  
 - Extra Cells 2 2.6.2  
+- Farseek 2.3.2  
 - FTB Library 5.4.1.99  
 - FTB Utilities 5.4.0.96  
 - Hatchery 2.2.1  
@@ -41,6 +42,7 @@
 - JourneyMap 1.12.2-5.5.3  
 - Just Enough Energistics 1.12.2-1.0.6  
 - Just Enough Items 4.15.0.279  
+- LibEx 1.0.8  
 - Lost Souls 1.12-1.1.4  
 - Mantle 1.3.3.55  
 - McJtyLib 1.12-3.5.2  
@@ -48,6 +50,7 @@
 - More Chickens 3.1.0  
 - MrCrayfish's Furniture Mod 6.2.1  
 - Mystical Agriculture 1.7.3  
+- NetherEx 2.0.8  
 - Not Enough Wans 1.12-1.8.1  
 - OptiFine 1.12.3_HD_U_E3 (optional, not distributed with pack)  
 - OreExcavation 1.4.140  
@@ -64,6 +67,7 @@
 - rftoolspower 1.12-1.2.0  
 - Storage Drawers 1.12.2-5.3.8  
 - Storage Drawers Extras 1.12-3.1.0  
+- Streams 0.4.7  
 - The Lost Cities 1.12-2.0.19  
 - The One Probe 1.12-1.4.28  
 - Thermal Dynamics 2.5.4.18  
