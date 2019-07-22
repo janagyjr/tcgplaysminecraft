@@ -1,5 +1,16 @@
 # TCG Plays Minecraft LP Pack  
 ## Initial 'I Love Minecraft' release  
+### Version 0.0.2  
+
+### Mods Added
+- Roost 1.12.2-2.0.10  
+
+### Mods Removed  
+- Hatchery  
+
+### Changes Made  
+- Not Applicable  
+
 ### Version 0.0.1  
 
 ### Mods Added  
@@ -88,4 +99,4 @@
 - Not Applicable  
 
 ### Changes to Config Files  
--
+- Not Applicable  
