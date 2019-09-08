@@ -11,6 +11,7 @@
 - AE2 Wireless Terminal Library (1.0.6 > 1.0.30)  
 - Applied Energistics 2 (rv6-stable-6 > rev6-stable-7)  
 - Ariente (0.0.22-alpha > 0.0.31-alpha)
+- Ariente World (0.0.22-alpha > 0.0.31-alpha)
 - AutoRegLib (1.3-29 > 1.3-32)  
 - Biomes O' Plenty (7.0.1.2439-universal > 7.0.1.2441-universal)  
 - Chickens (6.0.4 > 6.1.0)
