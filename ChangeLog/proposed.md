@@ -1,7 +1,62 @@
 # TCG Plays Minecraft LP Pack  
-## Initial 'I Love Minecraft' release  
-### Version 0.0.1  
+## "Mods-R-Us" release  
+###Version 0.0.2
+###Mods Added
+- Flux Networks (3.0.19)  
+- SonarCore (5.0.19-20)  
 
+###Mods Updated  
+-  /dank/null (1.4.46 > 1.6.80)  
+- Actually Additions (r148 > 150)  
+- AE2 Wireless Terminal Library (1.0.6 > 1.0.30)  
+- Applied Energistics 2 (rv6-stable-6 > rev6-stable-7)  
+- Ariente (0.0.22-alpha > 0.0.31-alpha)
+- Ariente World (0.0.22-alpha > 0.0.31-alpha)
+- AutoRegLib (1.3-29 > 1.3-32)  
+- Biomes O' Plenty (7.0.1.2439-universal > 7.0.1.2441-universal)  
+- Chickens (6.0.4 > 6.1.0)
+- Chicken Chunks (2.4.2.73-universal > 2.4.2.74-universal)  
+- CodeChicken Lib (3.2.3.353-universal > 3.2.3.358)  
+- CoFH Core (4.6.2.25-universal > 4.6.3.27-universal)  
+- CoFH World (1.3.0.6-universal > 1.3.1.7-universal)  
+- Cooking for Blockheads (6.4.70 > 6.4.71)  
+- FTB Library (5.4.1.99 > 5.4.3.134)  
+- FTB Utilities (5.4.0.96 > FTB Utilities: Backups 1.0.0.5)  
+- Hatchery (2.2.1 > 2.2.2)
+- Iron Chests (7.0.64.843 > 7.0.72.847)  
+- JourneyMap (5.5.3 > 5.5.5)  
+- Just Enough Energistics (1.0.6 > 1.0.7)  
+- JEI (4.15.0.279 > 4.15.0.289)  
+- LibraryEx (1.0.8 > 1.0.11)  
+- McJtyLib (3.5.2 > 3.5.4)  
+- More Chickens (3.1.0 > 3.2.0)  
+- MrCrayfish's Furniture Mod (6.2.1-1 > 6.3.1-1)  
+- NetherEx (2.0.8 > 2.0.13)  
+- p455w0rd's Library (2.1.44 > 2.2.156)  
+- Pam's HarvestCraft (1.12.2zc The 7mm Kidney Stone Update > 1.12.2zf)  
+- PlusTiC (7.0.7.0 > 7.1.4.1)  
+- Quark (r1.5-152 > r1.6-177)  
+- RFTools (7.7.1 > 7.72)  
+- Storage Drawers (5.3.8 > 5.4.0)  
+- The Lost Cities (2.0.19 > 2.0.21)  
+- Thermal Dynamics  (2.5.4.18 > 2.5.5.21)  
+- Thermal Expansion  (5.5.3.41 > 5.5.3.43)  
+- Thermal Foundation  (2.6.2.26 > 2.6.3.27)  
+- Tinkers Construct (2.12.0.135 > 2.12.0.157)  
+- Waystones (4.0.67 > 4.0.72)  
+- Wireless Crafting Terminal (3.11.88 > 3.12.93)  
+- XNet (1.8.1 > 1.8.2)  
+
+###Mods Removed  
+-  N/A  
+
+###Configuration Changes  
+-  
+
+###Other Notes  
+
+##Initial "I Love Minecraft" release
+### Version 0.0.1  
 ### Mods Added  
 - /dank/null 1.12-1.4.46  
 - Actually Additions 1.12.2-r148  
