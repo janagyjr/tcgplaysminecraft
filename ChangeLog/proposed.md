@@ -22,6 +22,7 @@
 - Cooking for Blockheads (6.4.70 > 6.4.71)  
 - FTB Library (5.4.1.99 > 5.4.3.134)  
 - FTB Utilities (5.4.0.96 > FTB Utilities: Backups 1.0.0.5)  
+- Hatchery (2.2.1 > 2.2.2)
 - Iron Chests (7.0.64.843 > 7.0.72.847)  
 - JourneyMap (5.5.3 > 5.5.5)  
 - Just Enough Energistics (1.0.6 > 1.0.7)  
