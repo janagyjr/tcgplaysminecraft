@@ -1,11 +1,11 @@
 # TCG Plays Minecraft LP Pack  
 ## "Mods-R-Us" release  
-###Version 0.0.3  
-###Mods Added
+### Version 0.0.3  
+### Mods Added
 - Flux Networks (3.0.19)  
 - SonarCore (5.0.19-20)  
 
-###Mods Updated  
+### Mods Updated  
 -  /dank/null (1.4.46 > 1.6.80)  
 - Actually Additions (r148 > 150)  
 - AE2 Wireless Terminal Library (1.0.6 > 1.0.30)  
@@ -46,13 +46,13 @@
 - Wireless Crafting Terminal (3.11.88 > 3.12.93)  
 - XNet (1.8.1 > 1.8.2)  
 
-###Mods Removed  
+### Mods Removed  
 -  N/A  
 
-###Configuration Changes  
+### Configuration Changes  
 -  
 
-###Other Notes  
+### Other Notes  
 
 ## Chicken Updates release  
 ### Version 0.0.2  
