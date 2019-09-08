@@ -1,6 +1,6 @@
 # TCG Plays Minecraft LP Pack  
 ## "Mods-R-Us" release  
-###Version 0.0.3
+###Version 0.0.3  
 ###Mods Added
 - Flux Networks (3.0.19)  
 - SonarCore (5.0.19-20)  
