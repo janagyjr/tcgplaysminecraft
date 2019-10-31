@@ -1,4 +1,25 @@
 # TCG Plays Minecraft LP Pack  
+## "Potential Release" Update  
+### Version 0.0.4  
+### Mods Added  
+- ProjectE (2.5.0)  
+- ProjectE Integration (2.5.0)  
+
+### Mods Updated  
+- N/A  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- N/A  
+
+### Other Notes  
+This could be the final mod additions before I begin configuration of the individual  
+mods so the pack has the right 'feel' that I'm looking for. If I get the hankering  
+for custom recipes - which I very well might - expect the relevant mods to be added  
+to the pack. At that point I will also look into a custom title screen.  
+
 ## "Mods-R-Us" release  
 ### Version 0.0.3  
 ### Mods Added
