@@ -4,6 +4,7 @@
 ### Mods Added  
 - ProjectE (2.5.0)  
 - ProjectE Integration (2.5.0)  
+- Project EX (1.2.0.39)
 
 ### Mods Updated  
 - N/A  
