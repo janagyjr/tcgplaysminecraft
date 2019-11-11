@@ -4,7 +4,10 @@
 ### Mods Added  
 - ProjectE (2.5.0)  
 - ProjectE Integration (2.5.0)  
-- Project EX (1.2.0.39)
+- Project EX (1.2.0.39)  
+- CraftTweaker (4.1.19)  
+- CustomMainMenu (2.0.9)  
+- Resource Loader (1.5.3)  
 
 ### Mods Updated  
 - N/A  
@@ -29,11 +32,16 @@
 - Storage Drawers: increased base storage of all drawers by a factor of 2 (e.g. 32*2=64); increased controller range to 24; doubled upgrade multipliers  
 - Tinkers Construct: Made slimeIslandRate 800; made magmaIslandRate 200  
 - Waystones: Disabled particles; disabled the breaking of generated waystones; set it so only owners can rename waystones  
+- FTB Utilities: Enabled starting items; changed motd; enabled motd  
+- FTBLib: disabled automatic team creation  
+- Started creating custom recipes  
+
+### Scripts  
+- Changed philosophers_stone to require Biome's O'Plenty and vanilla Minecraft blocks; removed default recipes  
 
 ### Other Notes  
 - This could be the final mod additions before I begin configuration of the individual mods so the pack has the right 'feel' that I'm looking for. If I get the hankering for custom recipes - which I very well might - expect the relevant mods to be added to the pack. At that point I will also look into a custom title screen.  
 - It is recommended to use Forge chunkloading in the overworld and chicken chunks everywhere else.  
--
 
 ## "Mods-R-Us" release  
 ### Version 0.0.3  

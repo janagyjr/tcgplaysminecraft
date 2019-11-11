@@ -69,7 +69,6 @@ signalum                                          (tconstruct:molten_signalum)  
 lumium                                            (tconstruct:molten_lumium)                                                       = Molten Lumium
 enderium                                          (tconstruct:molten_enderium)                                                     = Molten Enderium
 alumite                                           (plustic:plustic.molten_alumite)                                                 = Molten Alumite
-liquid_fertilizer                                 (hatchery:liquid_fertilizer)                                                     = Liquid Fertilizer
 stone                                             (tconstruct:molten_stone)                                                        = Seared Stone
 obsidian                                          (tconstruct:molten_obsidian)                                                     = Molten Obsidian
 clay                                              (tconstruct:molten_clay)                                                         = Molten Clay
