@@ -1,4 +1,50 @@
 # TCG Plays Minecraft LP Pack  
+## "Beta Release" Update  
+### Version 0.0.4  
+### Mods Added  
+- ProjectE (2.5.0)  
+- ProjectE Integration (2.5.0)  
+- Project EX (1.2.0.39)  
+- CraftTweaker (4.1.19)  
+- CustomMainMenu (2.0.9)  
+- Resource Loader (1.5.3)  
+- Bed Bugs (1.0.1)  
+
+### Mods Updated  
+- N/A  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- Applied Energistics: Changed power unit displayed to RF  
+- Biomes O'Plenty: Changed default world type to BoP  
+- CoFH Core: Disabled particles by default; set large item counts to display as number of stacks; made the Soulbound enchantment permanent; disabled death messages for any named entity; disabled holiday messages and April Foolishness  
+- Thermal Dynamics: enabled TD covers in JEI  
+- Thermal Expansion: adjusted base dynamo power as follows: Magmatic is now 50, Compression is 60, Reactant is 80, Enervation is now 90, and Numismatic is now 100; CustomPowerScaling for each level has been raised by 25; CustomEnergyScaling has been increased by 25 for each level  
+- Thermal Foundation: Disabled fluid from being created when clathrates are broken  
+- CoFH World: Enabled flat Bedrock  
+- RFTools: increased the RF/t that the builder can recieve to 20480; decreased the RF per entity the builder uses to 2500  
+- AE2 Wireless Terminals: Disabled the infinity booster card recipe, mob drops only  
+- ChickenChunks: Updated player chunk limiting to 12,500 and op to 50,000; set OP interact to true (though only useful on smp worlds)  
+- Chisel: Set the autochisel to require power; enabled the option to chisel back to original leaves if you make an oopsie; lowered limestone gen amount to 15, marble to 18  
+- Cooking for Blockheads: Increased milk per tick to 0.75; enabled large counters  
+- HarvestCraft: disabled wheat as an edible item; disabled top tier foods; Gardens now have a gardenSpreadRate=15, gardendropAmount=5, and gardenspreadMax=4  
+- Storage Drawers: increased base storage of all drawers by a factor of 2 (e.g. 32*2=64); increased controller range to 24; doubled upgrade multipliers  
+- Tinkers Construct: Made slimeIslandRate 800; made magmaIslandRate 200  
+- Waystones: Disabled particles; disabled the breaking of generated waystones; set it so only owners can rename waystones  
+- FTB Utilities: Enabled starting items; changed motd; enabled motd  
+- FTBLib: disabled automatic team creation  
+- CraftTweaker: Started creating custom recipes  
+- Forge: Disabled version check;
+
+### Scripts  
+- Changed philosophers_stone to require Biome's O'Plenty and vanilla Minecraft blocks; removed default recipes  
+
+### Other Notes  
+- This could be the final mod additions before I begin configuration of the individual mods so the pack has the right 'feel' that I'm looking for. If I get the hankering for custom recipes - which I very well might - expect the relevant mods to be added to the pack. At that point I will also look into a custom title screen.  
+- It is recommended to use Forge chunkloading in the overworld and chicken chunks everywhere else.   
+
 ## "Mods-R-Us" release  
 ### Version 0.0.3  
 ### Mods Added
