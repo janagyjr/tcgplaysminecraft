@@ -1,5 +1,5 @@
 # TCG Plays Minecraft LP Pack  
-## "Potential Release" Update  
+## "Beta Release" Update  
 ### Version 0.0.4  
 ### Mods Added  
 - ProjectE (2.5.0)  
@@ -8,6 +8,7 @@
 - CraftTweaker (4.1.19)  
 - CustomMainMenu (2.0.9)  
 - Resource Loader (1.5.3)  
+- Bed Bugs (1.0.1)  
 
 ### Mods Updated  
 - N/A  
@@ -28,13 +29,14 @@
 - ChickenChunks: Updated player chunk limiting to 12,500 and op to 50,000; set OP interact to true (though only useful on smp worlds)  
 - Chisel: Set the autochisel to require power; enabled the option to chisel back to original leaves if you make an oopsie; lowered limestone gen amount to 15, marble to 18  
 - Cooking for Blockheads: Increased milk per tick to 0.75; enabled large counters  
-- HarvestCraft: disabled wheat as an edible item; disabled top tier foods  
+- HarvestCraft: disabled wheat as an edible item; disabled top tier foods; Gardens now have a gardenSpreadRate=15, gardendropAmount=5, and gardenspreadMax=4  
 - Storage Drawers: increased base storage of all drawers by a factor of 2 (e.g. 32*2=64); increased controller range to 24; doubled upgrade multipliers  
 - Tinkers Construct: Made slimeIslandRate 800; made magmaIslandRate 200  
 - Waystones: Disabled particles; disabled the breaking of generated waystones; set it so only owners can rename waystones  
 - FTB Utilities: Enabled starting items; changed motd; enabled motd  
 - FTBLib: disabled automatic team creation  
-- Started creating custom recipes  
+- CraftTweaker: Started creating custom recipes  
+- Forge: Disabled version check;
 
 ### Scripts  
 - Changed philosophers_stone to require Biome's O'Plenty and vanilla Minecraft blocks; removed default recipes  
